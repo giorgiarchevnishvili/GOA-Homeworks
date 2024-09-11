@@ -1,0 +1,67 @@
+
+.Goa{
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid blue;
+}
+
+.box-two {
+    color: green;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.box-three {
+    font-style: italic;
+    margin: 10px;
+    border-bottom: 2px dashed red;
+}
+
+.box-four {
+    text-align: center;
+    color: purple;
+    margin: 10px;
+}
+
+.box-five {
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Styles for tags with IDs */
+#potato-one {
+    background-color: lightcoral;
+    padding: 15px;
+    margin: 15px;
+    border: 2px solid red;
+}
+
+#potato-two {
+    color: darkblue;
+    font-size: 20px;
+    margin: 15px;
+}
+
+#potato-three {
+    font-weight: bold;
+    margin: 15px;
+    border-top: 2px solid black;
+}
+
+#potato-four {
+    text-align: left;
+    color: darkgreen;
+    margin: 15px;
+}
+
+#potato-five {
+    background-color: darkgray;
+    color: yellow;
+    padding: 15px;
+    border: 1px solid black;
+    cursor: pointer;
+}
