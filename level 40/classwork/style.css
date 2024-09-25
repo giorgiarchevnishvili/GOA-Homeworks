@@ -1,0 +1,22 @@
+body{
+    background-color: magenta;
+}
+ #main{
+    background-color: white;
+    width: 300px;
+    height: 400px;
+ }
+
+#FB, #TM, #GM{
+height: 40px;
+width: 40px;
+}
+
+#sumbit{
+    width: 170px;
+    background-color: magenta;
+    color: white;
+}
+input{
+    border: none;
+}

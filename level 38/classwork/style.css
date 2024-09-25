@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px 0;
+}
+
+.main-title {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.nav-menu {
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav-menu li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.nav-menu a {
+    color: white;
+    text-decoration: none;
+}
+
+.portfolio-image {
+    width: 300px;
+    height: auto;
+    margin: 20px 0;
+}
+
+.goals {
+    font-size: 1.2em;
+}
+
+.click-button {
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.click-button:hover {
+    background-color: #005f6b;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-text {
+    margin: 0;
+}
